@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bluetooth Priority Manager - Android 16
 
 Rust-powered Android app that automatically disables your Bluetooth when you're near a priority device, giving it priority access.
